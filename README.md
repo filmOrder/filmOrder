@@ -11,7 +11,8 @@ netbeans需要装上struts2框架：
 新建一项目，在新建项目过程中要注意的是：
 
 路径上下文设为/filmOrder（项目名随意）
-<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/1.png" height="300" width="400">
+
+<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/1.png" height="60%" width="60%">
 
 最后一步框架的选择及我的版本情况
 ![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/2.png)
