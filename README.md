@@ -11,7 +11,7 @@ netbeans需要装上struts2框架：
 新建一项目，在新建项目过程中要注意的是：
 
 路径上下文设为/filmOrder（项目名随意）
-![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/1.png)
+<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/1.png" height="300" width="400">
 
 最后一步框架的选择及我的版本情况
 ![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/2.png)
@@ -19,6 +19,7 @@ netbeans需要装上struts2框架：
 ![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/4.png)
 
 ssh学习参考：
+
 [netbeans官方spring教程](https://netbeans.org/kb/docs/web/quickstart-webapps-spring_zh_CN.html)
 
 [netbeans官方hibernate教程](https://netbeans.org/kb/docs/web/hibernate-webapp_zh_CN.html)
