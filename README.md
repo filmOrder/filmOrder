@@ -15,9 +15,10 @@ netbeans需要装上struts2框架：
 <img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/1.png" height="60%" width="60%">
 
 最后一步框架的选择及我的版本情况
-![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/2.png)
-![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/3.png)
-![](https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/4.png)
+
+<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/2.png" height="60%" width="60%">
+<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/3.png" height="60%" width="60%">
+<img src="https://github.com/filmOrder/filmOrder/blob/master/uploadedPic/4.png" height="60%" width="60%">
 
 ssh学习参考：
 
