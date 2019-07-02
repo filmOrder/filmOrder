@@ -20,4 +20,5 @@ netbeans需要装上struts2框架：
 
 ssh学习参考：
 [netbeans官方spring教程](https://netbeans.org/kb/docs/web/quickstart-webapps-spring_zh_CN.html)
+
 [netbeans官方hibernate教程](https://netbeans.org/kb/docs/web/hibernate-webapp_zh_CN.html)
